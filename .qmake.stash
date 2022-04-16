@@ -1,0 +1,11 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1925
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192528612
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    D:\\ASM\\fasmw17327\\INCLUDE \
+    D:\\arduino-1.8.11-windows\\arduino-1.8.11\\test3\\libraries\\I2C \
+    D:\\ASM\\asm_prog_material\\include
